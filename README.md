@@ -15,21 +15,8 @@ that transforms lengthy articles into clear and concise summaries
 git clone https://github.com/ksunwy/ai.git
 ```
 
-Install Vite
+Install Vite, Redux JS, tailwindcss
 
 ```
 npm install
-```
-
-Install Redux JS
-
-```
-npm install @reduxjs/toolkit
-```
-
-Install tailwindcss
-
-```
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
 ```
